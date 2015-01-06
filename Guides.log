@@ -1,0 +1,281 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.2.19)  6 JAN 2015 14:36
+entering extended mode
+**Guides.tex
+("C:\Users\Doctor Doom\Guide\Guides.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\Doctor Doom\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.s
+ty"
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip43
+\enit@outerparindent=\dimen105
+\enit@toks=\toks15
+\enit@inbox=\box26
+\enitdp@description=\count89
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen106
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen107
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks17
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks18
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks19
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Users\Doctor Doom\Guide\Guides.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+("C:\Users\Doctor Doom\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mki
+i"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count102
+\scratchdimen=\dimen115
+\scratchbox=\box29
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen116
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks22
+) [1
+
+{C:/Users/Doctor Doom/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 17.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
+
+<CIGAR.jpg, id=7, 452.4403pt x 183.68625pt>
+File: CIGAR.jpg Graphic file (type jpg)
+ <use CIGAR.jpg>
+Package pdftex.def Info: CIGAR.jpg used on input line 35.
+(pdftex.def)             Requested size: 361.95274pt x 146.94917pt.
+ [1
+
+] [2 <C:/Users/Doctor Doom/Guide/CIGAR.jpg>]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 62.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 62.
+
+<FastQ.jpg, id=16, 416.30531pt x 234.1247pt>
+File: FastQ.jpg Graphic file (type jpg)
+ <use FastQ.jpg>
+Package pdftex.def Info: FastQ.jpg used on input line 75.
+(pdftex.def)             Requested size: 249.78511pt x 140.47589pt.
+ [3]
+<SAM.jpg, id=21, 472.76625pt x 148.30406pt>
+File: SAM.jpg Graphic file (type jpg)
+ <use SAM.jpg>
+Package pdftex.def Info: SAM.jpg used on input line 88.
+(pdftex.def)             Requested size: 472.76509pt x 148.30368pt.
+
+Overfull \hbox (82.76509pt too wide) in paragraph at lines 88--89
+ [][] 
+ []
+
+[4 <C:/Users/Doctor Doom/Guide/FastQ.jpg> <C:/Users/Doctor Doom/Guide/SAM.jpg>]
+<Phred.jpg, id=25, 464.4853pt x 211.54031pt>
+File: Phred.jpg Graphic file (type jpg)
+ <use Phred.jpg>
+Package pdftex.def Info: Phred.jpg used on input line 105.
+(pdftex.def)             Requested size: 232.24208pt x 105.76988pt.
+ [5 <C:/Users/Doctor Doom/Guide/Phred.jpg>] <VCF_demo.jpg, id=30, 886.06032pt x
+ 364.36125pt>
+File: VCF_demo.jpg Graphic file (type jpg)
+
+<use VCF_demo.jpg>
+Package pdftex.def Info: VCF_demo.jpg used on input line 139.
+(pdftex.def)             Requested size: 354.41785pt x 145.74191pt.
+ [6] [7 <C:/Users/Doctor Doom/Guide/VCF_demo.jpg>] [8
+
+]
+[9] <IGV.jpg, id=44, 564.60938pt x 343.2825pt>
+File: IGV.jpg Graphic file (type jpg)
+ <use IGV.jpg>
+Package pdftex.def Info: IGV.jpg used on input line 186.
+(pdftex.def)             Requested size: 282.30399pt x 171.64082pt.
+ [10 <C:/Users/Doctor Doom/Guide/IGV.jpg>] [11] <VEP_input.jpg, id=51, 397.485p
+t x 106.89937pt>
+File: VEP_input.jpg Graphic file (type jpg)
+
+<use VEP_input.jpg>
+Package pdftex.def Info: VEP_input.jpg used on input line 255.
+(pdftex.def)             Requested size: 317.98842pt x 85.51959pt.
+ [12]
+Overfull \hbox (7.021pt too wide) in paragraph at lines 269--270
+[]\OT1/cmr/m/n/12 This will run the VEP on the de-fault ex-am-ple file, con-tai
+n-ing 1000 Genomes
+ []
+
+
+Overfull \hbox (34.49059pt too wide) in paragraph at lines 278--279
+[]\OT1/cmr/m/n/12 perl vari-ant[]effect[]predictor.pl -i ex-am-ple[]GRCh38.vcf 
+--cache --force[]overwrite
+ []
+
+
+Overfull \hbox (34.49059pt too wide) in paragraph at lines 291--294
+[]\OT1/cmr/m/n/12 perl vari-ant[]effect[]predictor.pl -i ex-am-ple[]GRCh38.vcf 
+--cache --force[]overwrite
+ []
+
+
+Overfull \hbox (70.01414pt too wide) in paragraph at lines 291--294
+\OT1/cmr/m/n/12 --sift b --canonical --symbol  --fields Up-loaded[]variation,SY
+MBOL,CANONICAL,SIFT
+ []
+
+[13 <C:/Users/Doctor Doom/Guide/VEP_input.jpg>] [14] [15
+
+] [16
+
+]
+("C:\Users\Doctor Doom\Guide\Guides.aux") ) 
+Here is how much of TeX's memory you used:
+ 2109 strings out of 493921
+ 27905 string characters out of 3144858
+ 83900 words of memory out of 3000000
+ 5409 multiletter control sequences out of 15000+200000
+ 10232 words of font info for 37 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 27i,8n,20p,655b,232s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb>
+Output written on Guides.pdf (17 pages, 507534 bytes).
+PDF statistics:
+ 88 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
