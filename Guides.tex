@@ -297,14 +297,90 @@ This (huge) command is an example input which executes a standard VEP process wi
 
 These examples were taken from the Ensembl docs on VEP.
 
+\section*{Bioconductor}
 
-\chapter*{Aligners}
+\section*{GATK}
+
+\chapter*{Aligners and Algorithms}
 \section*{Burrows-Wheeler Aligner}
 
+\section*{Human Reference Genome Versions}
+
+\chapter*{Databases}
+
+\section*{Types of database}
+Each entry a separate section?
+
+\section*{Flat file}
+
+A flat file database is a very token addition to this list; simply put it is a document containing data, or a location where unconnected documents can be stored. It will not usually contain any form of intelligent search, version control or other features common among specifically designed database implementations.
+
+\section*{Object Database}
+
+An object database is a database management system in which information is represented in the form of objects (similar to the concept of object oriented programming (OOP)). By combining database and OOP-language capabilities a system can use a continuous model for data representation in the storage medium and the programming language used to control it. An example would be creating a Java object, setting its attribute values, and saving the object as an entry within the database. A join query would not be required to fully recreate the object, as a pointer could be used to identify the location of the complete set of values instead.
+
+Class methods which are associated with the object within the programming language can be used to interact with objects and attributes. Some Object Database Management Systems (ODMSs) allow for version control of the objects, and can show good performance when the objects stored are huge (compared with a field-by-field relational reconstruction of an entity).
+
+\section*{Relational Database}
+
+A relational database is a data storage facility which makes use of Edgar Codd's relational model. This sorts data into one or more tables with a unique key labelling each row. The terminology within the relational model refers to each table as a relation, the fields or columns as attributes, and each row as a tuple.
+
+\begin{itemize}
+	\item Each entity type to be modelled within the database is typically modelled by a table (relation), and each rown (tuple) represents an instance.
+	
+	\item Complex entities and relationships can be represented by joining entities represented by several tables - unique row identifiers can be used to select specific instances.
+	
+	\item Each attribute in each table will have a specific domain; a range of values which it may take. An attribute may be specified as an integer, a Boolean value, or a String for instance.
+	
+	\item Constraints may also be added to the field domain, such as ensuring certain fields are not left blank, or providing a range of values an attribute must fall between. 
+	
+	\item Foreign keys are the method of linking between tuples in different tables, and indexes may be used to speed up queries executed on different tables. Indexes are often implemented as trees for their flexibility. 
+	
+	\item Relational operations such a Joins, Intersections, Differences and Full joins can be used to create sets of records gathering all the details of an entity or a concept. 
+	
+	\item Normalization is a logical process which can be applied to relational database tables. This involves a progressive decomposition of a table into several single tables to ensure that no conflicting relationships exist between the attributes, and to make sure that insertions or deletions to any given field will not cause errors elsewhere in the database.
+\end{itemize}
 
 
+\section*{Graph Database}
 
-\chapter*{Algorithms}
+This type of database implements graph structures with nodes, edges, and properties to represent and store data.
+
+\begin{itemize}
+	\item Every element contains a direct pointer to its adjacent elements and no index lookups are necessary. 
+	
+	\item Each entity is represented by a node (Person, place, concept...), and each node has a range of descriptive properties (age, value, location...).
+	
+	\item Edges connect nodes, and represent the relationship between objects. This relationship can have a descriptive name and attributes. Most of the relational information in the database is stored in/on the edges.
+	
+	\item Each node has an arbitrary number of edges. Compared with Object or Relational databases they may be capable of modelling real world situations more faithfully, and perform better for associative data sets.
+	
+	\item Operations such as computing the shortest path between objects via existing relationships is simple using the Graph schema.
+\end{itemize}
+
+\section*{NoSQL}
+
+Not only SQL (NoSQL) refers to a range of non-relational database methodologies. An example is a document based database (such as PLONE), where individual documents are uploaded and can be tagged with specific identifiers to enable searching across a range of items to select those relating to the chosen properties.
+
+\section*{Normalization}
+For relational databases, normalisation is a process of reducing redundancy within a database and ensuring that data integrity is implicitly maintained during updates and additions. An example of this is the repetition of a single field value when referring to multiple rows. e.g.:
+\vspace*{1\baselineskip}
+
+\begin{tabular}{|c|c|c|c|}\hline
+	\centering
+RecordID  & UserID  &   Name  &    Role   \\ \hline
+1     &     1   &   Matt  & DB Analysis\\ \hline
+2     &     1   &   Matt  & Coffee making\\ \hline
+3     &     2   &   Hagrid& Yodelling \\ \hline
+\end{tabular}
+\vspace*{1\baselineskip}
+
+In this database example, the UserID and the Name both refer to the same person, and the data is repeated across multiple rows. This means that there is a possibility of updating one of the 'Matt' records and altering the Name field, or inserting a new record with the wrong name/ID combination, corrupting the data the table represents. To ensure that this is not a risk, the single table can be split into two tables, one containing UserID : Name relationships, and the other containing UserID : Role relationships. 
+
+Although this is a simple example, the same logic applies when examining larger tables. If a single record consists of groups of data which each depend on the primary key, but are not linked together, separation of the single record into distinct tables can improve security against update and expansion problems.
 
 
+\chapter*{Other}
+
+\section*{Reciever Operator Characteristic}
 \end{document}
